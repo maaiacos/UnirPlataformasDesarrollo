@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|d:\\unir\\plataformas de desarrollo de software\\astividad2 - mario andres moreno\\farmacia unir\\farmacia unir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|solutionrelative:farmacia unir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|d:\\unir\\plataformas de desarrollo de software\\astividad2 - mario andres moreno\\farmacia unir\\farmacia unir\\validardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|solutionrelative:farmacia unir\\validardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|d:\\unir\\plataformas de desarrollo de software\\astividad2 - mario andres moreno\\farmacia unir\\farmacia unir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|solutionrelative:farmacia unir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|d:\\unir\\plataformas de desarrollo de software\\astividad2 - mario andres moreno\\farmacia unir\\farmacia unir\\formenviopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|solutionrelative:farmacia unir\\formenviopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|d:\\unir\\plataformas de desarrollo de software\\astividad2 - mario andres moreno\\farmacia unir\\farmacia unir\\salida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|solutionrelative:farmacia unir\\salida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|d:\\unir\\plataformas de desarrollo de software\\astividad2 - mario andres moreno\\farmacia unir\\farmacia unir\\formenviopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5955D82D-1426-47CC-A3BE-C336773634D4}|Farmacia Unir\\Farmacia Unir.csproj|solutionrelative:farmacia unir\\formenviopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidarDatos.cs",
+              "DocumentMoniker": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\ValidarDatos.cs",
+              "RelativeDocumentMoniker": "Farmacia Unir\\ValidarDatos.cs",
+              "ToolTip": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\ValidarDatos.cs",
+              "RelativeToolTip": "Farmacia Unir\\ValidarDatos.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwDQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:08:43.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Salida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\Salida.cs",
+              "RelativeDocumentMoniker": "Farmacia Unir\\Salida.cs",
+              "ToolTip": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\Salida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Farmacia Unir\\Salida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:03:57.709Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormEnvioPedido.cs",
+              "DocumentMoniker": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\FormEnvioPedido.cs",
+              "RelativeDocumentMoniker": "Farmacia Unir\\FormEnvioPedido.cs",
+              "ToolTip": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\FormEnvioPedido.cs",
+              "RelativeToolTip": "Farmacia Unir\\FormEnvioPedido.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAywCcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:11:13.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEnvioPedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\FormEnvioPedido.cs",
+              "RelativeDocumentMoniker": "Farmacia Unir\\FormEnvioPedido.cs",
+              "ToolTip": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\FormEnvioPedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Farmacia Unir\\FormEnvioPedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:34:24.644Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\Form1.cs",
+              "RelativeDocumentMoniker": "Farmacia Unir\\Form1.cs",
+              "ToolTip": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\Form1.cs",
+              "RelativeToolTip": "Farmacia Unir\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:29:46.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\Form1.cs",
+              "RelativeDocumentMoniker": "Farmacia Unir\\Form1.cs",
+              "ToolTip": "D:\\unir\\Plataformas de Desarrollo de Software\\Astividad2 - Mario Andres Moreno\\Farmacia Unir\\Farmacia Unir\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Farmacia Unir\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:10:25.799Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

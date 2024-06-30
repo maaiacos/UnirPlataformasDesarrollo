@@ -1,0 +1,12 @@
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\obj\Debug\Farmacia Unir.csproj.AssemblyReference.cache
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\obj\Debug\Farmacia_Unir.Form1.resources
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\obj\Debug\Farmacia_Unir.Properties.Resources.resources
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\obj\Debug\Farmacia Unir.csproj.GenerateResource.cache
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\obj\Debug\Farmacia Unir.csproj.CoreCompileInputs.cache
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\bin\Debug\Farmacia Unir.exe.config
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\bin\Debug\Farmacia Unir.exe
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\bin\Debug\Farmacia Unir.pdb
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\obj\Debug\Farmacia Unir.exe
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\obj\Debug\Farmacia Unir.pdb
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\obj\Debug\Farmacia_Unir.FormEnvioPedido.resources
+D:\unir\Plataformas de Desarrollo de Software\Astividad2 - Mario Andres Moreno\Farmacia Unir\Farmacia Unir\obj\Debug\Farmacia_Unir.Salida.resources
